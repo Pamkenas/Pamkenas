@@ -16,16 +16,14 @@ I'm a 16 y/o self-taught Full Stack Developer from 🇱🇹 Lithuania, building 
 - Earn 💰 online
 
 ### 🔗 Connect
-- 💼 [Portfolio](https://pamkenas.dev) coming soon...
-- 🌍 Based in Lithuania
+- 💼 [Portfolio](https://pamkenas.dev)
+- 🌍 Based in Lithuania 📍 Kaunas
 
 > “Stay consistent. Code daily. Dream big.”
 
-
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pamkenas)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PovilasPuzinauskas)  
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pamkenas)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PovilasPuzinauskas) 
+ 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
