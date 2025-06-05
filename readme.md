@@ -22,7 +22,7 @@ I'm a 16 y/o self-taught Full Stack Developer from 🇱🇹 Lithuania, building 
 > “Stay consistent. Code daily. Dream big.”
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pamkenas)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/povilas-puzinauskas-650686369s) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pamkenas)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/povilas-puzinauskas-650686369) 
  
 
 # 💻 Tech Stack:
