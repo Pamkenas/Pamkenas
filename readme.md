@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## 👋 Hey there!  
-I'm a 16 y/o self-taught Full Stack Developer from 🇱🇹 Lithuania, building cool things with:
+I'm a 16 y/o Full Stack Developer from Lithuania, building cool things with:
 
 ### ⚙️ Tech Stack
 - 💻 Frontend: **JavaScript**, **TypeScript**, **React**, **Next.js**, **HTML**, **CSS**, **SASS**
