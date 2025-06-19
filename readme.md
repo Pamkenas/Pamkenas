@@ -5,7 +5,7 @@ I'm a 16 y/o Full Stack Developer from Lithuania, building cool things with:
 ### ⚙️ Tech Stack
 - 💻 Frontend: **JavaScript**, **TypeScript**, **React**, **Next.js**, **HTML**, **CSS**, **SASS**
 - 🛠 Backend: **Node.js**, **Nest.js**, **MySQL**, **NoSQL**
-- 🐧 DevOps: **Debian Linux**, **Docker**
+- 🐧 DevOps: **Debian/Arch Linux**, **Docker**
 
 ### 📚 Learning
 - Deep diving into **Next.js**
