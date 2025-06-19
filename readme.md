@@ -3,12 +3,12 @@
 I'm a 16 y/o Full Stack Developer from Lithuania, building cool things with:
 
 ### ⚙️ Tech Stack
-- 💻 Frontend: **JavaScript**, **TypeScript**, **React**, **Next.js**, **HTML**, **CSS**, **SASS**
-- 🛠 Backend: **Node.js**, **Nest.js**, **MySQL**, **NoSQL**
+- 💻 Frontend: **JavaScript**, **TypeScript**, **React**, **HTML**, **CSS**, **SASS**
+- 🛠 Backend: **Node.js**, **MySQL**, **NoSQL**
 - 🐧 DevOps: **Debian/Arch Linux**, **Docker**
 
 ### 📚 Learning
-- Deep diving into **Next.js**
+- Deep diving into **Next.js**, **Next.js**, **Three.js**
 - Exploring **Web Design** soon 🎨
 
 ### 💡 Goals
