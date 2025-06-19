@@ -25,9 +25,6 @@ I'm a 16 y/o Full Stack Developer from Lithuania, building cool things with:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pamkenas) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/povilas-puzinauskas-650686369)
 
-
- 
-
 ## 💻 Tech Stack
 
 ### 🖼️ Frontend
