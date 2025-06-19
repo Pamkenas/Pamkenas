@@ -8,7 +8,7 @@ I'm a 16 y/o Full Stack Developer from Lithuania, building cool things with:
 - 🐧 DevOps: **Debian/Arch Linux**, **Docker**
 
 ### 📚 Learning
-- Deep diving into **Next.js**, **Next.js**, **Three.js**
+- Deep diving into **Next.js**, **Nest.js**, **Three.js**
 - Exploring **Web Design** soon 🎨
 
 ### 💡 Goals
