@@ -58,12 +58,3 @@ I'm a 16 y/o Full Stack Developer from Lithuania, building cool things with:
 
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Pamkenas&theme=dark&hide_border=false)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Pamkenas&icon=4&color=7)](https://visitcount.itsvg.in)
