@@ -39,8 +39,8 @@ I'm a 16 y/o Full Stack Developer from Lithuania, building cool things with:
 
 ---
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases & Server
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-4E2A8E.svg?style=for-the-badge&logo=debian&logoColor=white)
 
 ---
 
